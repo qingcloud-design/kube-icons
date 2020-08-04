@@ -1,0 +1,124 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3EB9C68-E862-46C3-8402-E932CBB8433E",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -950,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "689E5F45-B75F-4963-8A72-BF7B5C801C91"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DBA29A41-AA0A-4D3F-8C00-3F0C1BAC6469"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4FA5C459-5CC8-46D5-8563-38ED01A497F9"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C77D1110-B18E-4EE1-8385-036CC4F5E0C2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B4CF653B-6488-4822-B5A9-57DF5752E029"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E2FDDA4A-22EB-49C2-87AD-087F68AFFA1C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "54F12A7F-C277-4D2A-946A-6105D2367891"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "8B1C68B6-58F8-4AE7-A3A5-3EF1CD9212D8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4FFB03DB-E7A5-4E99-BDFF-6581C8E4F8F7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "E40753FF-5925-4DF8-8082-4A01D10200B4"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "300B67B7-D6C4-41EE-969C-1DAF562C4E93"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "38210695-D212-4EB9-BB6B-D2621C20798D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7BE372F4-C0B6-48F5-BE67-E7584861FEA7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F644F1A8-A258-4780-B218-C16CB236408A"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "B95CE437-CCF3-4359-8ADA-12BC7E65EFCF"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DEB1C687-D0E3-40F9-87DA-164459BBE7F2"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7E169244-88F6-43CD-B2D1-6E33279AF631"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "19B44938-CCF5-4C1F-8C19-A1AEEB7ABD91"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7D00F9BC-FBD3-47E4-89AE-8587CFAFCAC7"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "7CB5220F-C1EE-48FE-B297-7AC73F165566"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "4F3BB573-28F7-412A-94F5-E9995813BF7E"
+    }
+  ],
+  "name": "03.信息类(Info)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -692,
+    "guides": [
+    ]
+  }
+}

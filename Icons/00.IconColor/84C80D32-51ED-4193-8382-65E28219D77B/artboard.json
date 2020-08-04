@@ -1,0 +1,92 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "84C80D32-51ED-4193-8382-65E28219D77B",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 768,
+    "width": 1024,
+    "x": -728,
+    "y": -331
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BC1DD08D-CD98-4E26-B91E-D972E299DBAE"
+    },
+    {
+      "class": "rectangle",
+      "id": "400B662F-12FC-479D-9781-99E62D0E1AFD"
+    },
+    {
+      "class": "rectangle",
+      "id": "AB2A49FB-500F-422F-BDFE-34CDF81FA5E5"
+    },
+    {
+      "class": "rectangle",
+      "id": "A8A3AABB-CA0F-459F-B127-344A0EE04A3F"
+    },
+    {
+      "class": "rectangle",
+      "id": "CEE8C222-9701-4571-8665-17228CFA5634"
+    },
+    {
+      "class": "rectangle",
+      "id": "F5BB17C5-31A2-4AA3-9E9F-66A75CF424E3"
+    },
+    {
+      "class": "rectangle",
+      "id": "7B6040FE-9505-482F-8922-15FE191DC07B"
+    }
+  ],
+  "name": "画板",
+  "nameIsFixed": false,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 768,
+    "name": "平板",
+    "offersLandscapeVariant": 1,
+    "width": 1024
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

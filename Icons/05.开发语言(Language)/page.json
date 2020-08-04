@@ -1,0 +1,124 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AE6A9A50-2DDF-452A-9782-8D7EE1308EE5",
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": -950,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolMaster",
+      "id": "9DE3CE3B-8753-4FD3-9D8F-BF89E6CF580E"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "15B79C2B-4DAD-4106-875E-ACF9E2D311E0"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "5D75EDD2-F45F-4062-AE19-AA618514932D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "56BE6A75-BE88-4615-BD5C-5585522CFE3D"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "DE9EEE8C-DCBB-486B-A29D-1A29C67BE994"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EE27487A-53F1-4BBF-B09C-9ED0F7BC9B36"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "EBF6C191-8878-4443-A9B1-8EBE5FB2EE60"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "50A11131-1BF4-4EC4-881A-45C5C2685D46"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C90A84B7-7685-4DF5-BC73-935E479453ED"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "53D503B5-A5E5-4AFB-80DA-A401E3D98A8C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "AA917130-61D0-4C9E-8114-68AD531A1969"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2965EDCB-2665-477C-84E6-B543F08AA841"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "995A93C9-CFE5-4B19-903B-76A9727AB636"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "50615F33-81EE-4B1D-9A0F-B2E062D6AC23"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "2B4CCD84-EC65-40A0-BDC1-0D4D1BD0E023"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "C5016BA9-C78F-4752-9D08-5DF30CAB6E84"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "26C34996-E56C-4E76-9924-3B4A5B5C6C4C"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "66CB3D61-4F72-477F-B520-DFB092136CC8"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "081B362D-1313-40EB-AFEC-C03AF6C2CD65"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "F07F051B-5E94-435B-8844-4F38E6B83FB1"
+    },
+    {
+      "class": "symbolMaster",
+      "id": "0DA327B2-0C15-4698-859F-BCB2CB651FCE"
+    }
+  ],
+  "name": "05.开发语言(Language)",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": -692,
+    "guides": [
+    ]
+  }
+}

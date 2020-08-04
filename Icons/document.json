@@ -1,0 +1,107 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colors": [
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.5411764705882353,
+        "green": 0.7372549019607844,
+        "red": 0.3333333333333333
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.7333333333333333,
+        "green": 0.8470588235294118,
+        "red": 0.6352941176470588
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.2588235294117647,
+        "green": 0.1803921568627451,
+        "red": 0.1411764705882353
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 0.8588235294117647,
+        "green": 0.8274509803921568,
+        "red": 0.8
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      },
+      {
+        "_class": "color",
+        "alpha": 1,
+        "blue": 1,
+        "green": 1,
+        "red": 1
+      }
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "50beb790-a86d-4a0c-bc7f-b27544b00d84",
+  "enableLayerInteraction": true,
+  "enableSliceInteraction": true,
+  "foreignLayerStyles": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "67.2",
+    "version": 130
+  },
+  "pages": [
+    "00.IconColor",
+    "01.操作类(Operation )🍭",
+    "02.方向性(Direction) ",
+    "03.信息类(Info)",
+    "04.对象(Object)",
+    "05.开发语言(Language)",
+    "06.商标(Brand)"
+  ],
+  "userInfo": {
+    "com.abstractapp.sketchplugin.1685a5c9-5230-4d37-963c-5efa0f361065": {
+      "metadata": {
+        "abstractFileVersion": 2,
+        "baseSHA": "HEAD/d025fdf4b55c00f7a002b7687d8d1c928fe9c0d1",
+        "branchId": "c288778b-997a-47b4-9ec2-795304756fa0",
+        "branchName": "BuildDocument",
+        "fileId": "50beb790-a86d-4a0c-bc7f-b27544b00d84",
+        "fileTreeSHA": "1594a26e3ec0acce267a5cb0657e880563ec68b9",
+        "fileTreeSha": "1594a26e3ec0acce267a5cb0657e880563ec68b9",
+        "name": "01.Graphy",
+        "projectId": "027fdad4-d887-488a-9b60-d1a17c43c100",
+        "projectName": "KubeDesign",
+        "readOnly": 0,
+        "savePath": "/Users/fengwei/Library/Application Support/Abstract/repos/027fdad4-d887-488a-9b60-d1a17c43c100/50beb790-a86d-4a0c-bc7f-b27544b00d84.abstract",
+        "sha": "d025fdf4b55c00f7a002b7687d8d1c928fe9c0d1",
+        "version": 2
+      }
+    }
+  }
+}

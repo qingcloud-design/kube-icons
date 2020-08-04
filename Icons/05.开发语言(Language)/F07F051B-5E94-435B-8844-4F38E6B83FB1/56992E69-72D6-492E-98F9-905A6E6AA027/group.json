@@ -1,0 +1,139 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "56992E69-72D6-492E-98F9-905A6E6AA027",
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 18,
+    "width": 13,
+    "x": 6,
+    "y": 3
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "4143FE4C-2982-40BB-8795-BC84DDBDDE6A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DD54A182-320B-4604-863A-6F8F7D5C5AD8"
+    },
+    {
+      "class": "shapePath",
+      "id": "BF91DD38-2346-4780-B6D4-EAC9F4980277"
+    },
+    {
+      "class": "shapePath",
+      "id": "514BCB0E-3025-4E35-AE0A-846536ED264E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "066DC040-0E51-4F35-9BE0-9A14264C7F3B"
+    },
+    {
+      "class": "shapePath",
+      "id": "14D3DEA7-A489-4246-A18F-5B68D845CCEC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "3E472FD6-C478-43A5-85EA-C05E4BA078E4"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E54C5F2F-6D1C-4121-917E-C6823D8CEE37"
+    },
+    {
+      "class": "shapePath",
+      "id": "5B82D265-790E-48E5-A67A-25FFB62A8DDA"
+    },
+    {
+      "class": "shapePath",
+      "id": "30427C98-4A47-4403-9166-41980C972958"
+    },
+    {
+      "class": "shapePath",
+      "id": "315ABB0F-2518-4E96-915E-218851A3CA0F"
+    },
+    {
+      "class": "shapePath",
+      "id": "9D934900-9356-41AB-8C95-F494AD16C30D"
+    },
+    {
+      "class": "shapePath",
+      "id": "2B318ECA-8FBF-4DC1-A9CB-9DF459C2D9A4"
+    },
+    {
+      "class": "shapePath",
+      "id": "2922A3F0-D6EC-425C-8ECB-8350381E9E26"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A5D624D9-629F-44C6-8F78-A7DA98D61901"
+    }
+  ],
+  "name": "golang",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.953125,
+      "saturation": 1,
+      "type": 0
+    },
+    "borderOptions": {
+      "_class": "borderOptions",
+      "dashPattern": [
+      ],
+      "isEnabled": true,
+      "lineCapStyle": 0,
+      "lineJoinStyle": 0
+    },
+    "borders": [
+    ],
+    "colorControls": {
+      "_class": "colorControls",
+      "brightness": 0,
+      "contrast": 1,
+      "hue": 0,
+      "isEnabled": true,
+      "saturation": 1
+    },
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "opacity": 1
+    },
+    "do_objectID": "58808F32-B1CA-4E9C-8D03-507D8C9E5199",
+    "endMarkerType": 0,
+    "fills": [
+    ],
+    "innerShadows": [
+    ],
+    "miterLimit": 10,
+    "shadows": [
+    ],
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
